@@ -1,4 +1,4 @@
-# MoJ Task Manager – Backend API
+# Task Manager – Backend API
 
 This is a Spring Boot backend. It provides a REST API for managing tasks assigned to caseworkers.
 
